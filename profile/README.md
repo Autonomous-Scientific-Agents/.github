@@ -27,5 +27,3 @@
 ### Get involved
 
 Issues, pull requests and ideas are welcome in any repository. See the [website](https://autonomous-scientific-agents.github.io/) for the full, always-current project list.
-
-<sub>*asa* means "wand" in Turkish.</sub>
