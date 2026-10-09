@@ -10,9 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://autonomous-scientific-agents.github.io/">Website</a> ·
+  <a href="https://autonomous-scientific-agents.github.io/">ASA Website</a> ·
   <a href="https://iqc-dashboard.streamlit.app/">IQC Dashboard</a> ·
   <a href="https://autonomous-scientific-agents.github.io/AI-tools-for-science/">AI Tools for Science</a>
+  <a href="https://argonne-lcf.github.io/ChemGraph/">ChemGraph</a>
+  <a href="https://huggingface.co/spaces/Autonomous-Scientific-Agents/chemgraph-leaderboard">ChemGraph Leaderboard</a>
 </p>
 
 ---
